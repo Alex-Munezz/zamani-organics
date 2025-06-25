@@ -12,8 +12,6 @@ function NotFound() {
       <Navbar />
     <div className="flex flex-col min-h-screen bg-gradient-to-br from-orange-100 via-white to-green-100 text-center">
       <div className="flex-1 flex flex-col items-center justify-center relative overflow-hidden">
-
-        {/* Floating Emojis */}
         <div className="absolute animate-pulse text-[6rem] opacity-20 select-none">🌸✨💫</div>
 
         <h2 className="text-6xl md:text-8xl font-extrabold text-red-500 animate-bounce mb-6 drop-shadow-lg">
